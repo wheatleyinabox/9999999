@@ -15,6 +15,7 @@ Everything to do with my Portal fanfic!
 * Sounds & Voices
     * AI TTS?
 * Voice Acting/Editing?
+* Inspiration: [AlmaNet](https://almanet.cc/)
 
 ## The Box
 Basically a personal blog!
@@ -25,4 +26,7 @@ Basically a personal blog!
     * Talking about anything
 
 ## Other Projects I'll likely deploy with Neocities at some point...
-* [Text Effects](https://github.com/wheatleyinabox/text-effects)
+* ### Text Effects
+   * Creating a terminal-like site you type in words and it changes the look of the site and or the font of the text you type.
+(totally not making a custom site for Imposter Syndrome videos specific text graphics)
+   * Inspired by: [justtypestuff.com](https://justtypestuff.com) & [Terry Cavanagh](https://github.com/TerryCavanagh)
