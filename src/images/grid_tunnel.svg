@@ -1,0 +1,755 @@
+<svg viewBox="0 0 600 600" preserveAspectRatio="none" style="background-color: #000; stroke: hsla(0, 0%, 100%, 0.3);">
+        <!-- STATIC LINES -->
+            <!-- Center Wall -->
+                <!-- Outline of Wall -->
+                    <rect x="237.5"y="237" width="125" height="125" fill="none"/>
+                <!-- Vertical Lines -->
+                    <line x1="270" y1="237" x2="270" y2="362"></line>
+                    <line x1="300" y1="175" x2="300" y2="425"></line>
+                    <line x1="330" y1="237" x2="330" y2="362"></line>
+                <!-- Horizontal Lines -->
+                    <line x1="237.5" y1="270" x2="363" y2="270"></line>
+                    <line x1="175" y1="300" x2="425" y2="300"></line>
+                    <line x1="237.5" y1="330" x2="363" y2="330"></line>
+
+            <!-- Corners -->
+                <!-- Top Left -->
+                    <line x1="237.5" y1="237" x2="0" y2="0"></line>
+                <!-- Top Right -->
+                    <line x1="362.5" y1="237" x2="600" y2="0"></line>
+                <!-- Bottom Left -->
+                    <line x1="237.5" y1="362" x2="0" y2="600"></line>
+                <!-- Bottom Right -->
+                    <line x1="362.5" y1="362" x2="600" y2="600"></line>
+
+            <!-- Ceiling & Floor -->
+                <!-- Straight Lines -->
+                    <line x1="300" y1="175" x2="300" y2="0"></line> 
+                    <line x1="300" y1="425" x2="300" y2="600"></line>
+                <!-- Top Lines -->
+                    <line x1="270" y1="237" x2="175" y2="0"></line>
+                    <line x1="330" y1="237" x2="425" y2="0"></line>
+                <!-- Bottom Lines -->
+                    <line x1="270" y1="363" x2="175" y2="600"></line>
+                    <line x1="330" y1="363" x2="425" y2="600"></line>
+
+            <!-- Left & Right Wall -->
+                <!-- Straight Lines -->
+                    <line x1="175" y1="300" x2="0" y2="300"></line>
+                    <line x1="425" y1="300" x2="600" y2="300"></line>
+                <!-- Left Lines -->
+                    <line x1="237.5" y1="270" x2="0" y2="175"></line>
+                    <line x1="237.5" y1="330" x2="0" y2="425"></line>
+                <!-- Right Lines -->
+                    <line x1="363" y1="270" x2="600" y2="175"></line>
+                    <line x1="363" y1="330" x2="600" y2="425"></line>
+        <!-- ANIMATED LINES -->
+            <!-- Top Horizontal -->
+                    <line x1="237.5"y1="237.5" x2="362"y2="237.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="237.5;205"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="237.5;205"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="362;394.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="237.5;205"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="205"y1="205" x2="394.5"y2="205">
+                        <animate 
+                            attributeName="x1" 
+                            values="205;172.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="205;172.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="394.5;427"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="205;172.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="172.5"y1="172.5" x2="427"y2="172.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="172.5;140"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="172.5;140"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="427;459.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="172.5;140"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="172.5"y1="172.5" x2="427"y2="172.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="140;107.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="140;107.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="459.5;492"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="140;107.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="107.5"y1="107.5" x2="492"y2="107.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="107.5;75"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="107.5;75"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="492;524.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="107.5;75"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="75"y1="75" x2="524.5"y2="75">
+                        <animate 
+                            attributeName="x1" 
+                            values="75;42.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="75;42.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="524.5;557"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="75;42.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="42.5"y1="42.5" x2="557"y2="42.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="42.5;10"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="42.5;10"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="557;589.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="42.5;10"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="10"y1="10" x2="589.5"y2="10">
+                        <animate 
+                            attributeName="x1" 
+                            values="10;-22.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="10;-22.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="589.5;622"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="10;-22.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+            <!-- Bottom Horizontal -->
+                    <line x1="237.5" y1="362" x2="362.5" y2="362">
+                        <animate 
+                            attributeName="x1" 
+                            values="237.5;205"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="362;394.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="362.5;395"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="362;394.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="205" y1="394.5" x2="395" y2="394.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="205;172.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="394.5;427"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="395;427.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="394.5;427"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="172.5" y1="427" x2="427.5" y2="427">
+                        <animate 
+                            attributeName="x1" 
+                            values="172.5;140"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="427;459.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="427.5;460"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="427;459.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="140" y1="459.5" x2="460" y2="459.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="140;107.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="459.5;492"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="460;492.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="459.5;492"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="107.5" y1="492" x2="492.5" y2="492">
+                        <animate 
+                            attributeName="x1" 
+                            values="107.5;75"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="492;524.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="492.5;525"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="492;524.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="75" y1="524.5" x2="525" y2="524.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="75;42.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="524.5;557"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="525;557.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="524.5;557"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="42.5" y1="557" x2="557.5" y2="557">
+                        <animate 
+                            attributeName="x1" 
+                            values="42.5;10"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="557;589.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="557.5;590"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="557;589.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="10" y1="589.5" x2="590" y2="589.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="10;-22.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="589.5;622"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="590;622.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="589.5;622"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+            <!-- Left Vertical -->
+                    <line x1="237.5" y1="237" x2="237.5" y2="362">
+                        <animate 
+                            attributeName="x1" 
+                            values="237.5;205"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="237;204.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="237.5;205"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="362;394.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="205" y1="204.5" x2="205" y2="394.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="205;172.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="204.5;172"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="205;172.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="394.5;427"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="172.5" y1="172" x2="172.5" y2="427">
+                        <animate 
+                            attributeName="x1" 
+                            values="172.5;140"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="172;139.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="172.5;140"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="427;459.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="140" y1="139.5" x2="140" y2="459.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="140;107.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="139.5;107"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="140;107.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="459.5;492"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="107.5" y1="107" x2="107.5" y2="492">
+                        <animate 
+                            attributeName="x1" 
+                            values="107.5;75"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="107;74.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="107.5;75"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="492;524.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="75" y1="74.5" x2="75" y2="524.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="75;42.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="74.5;42"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="75;42.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="524.5;557"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="42.5" y1="42" x2="42.5" y2="557">
+                        <animate 
+                            attributeName="x1" 
+                            values="42.5;10"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="42;10.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="42.5;10"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="557;589.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="10" y1="10.5" x2="10" y2="589.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="10;-22.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="10;-22.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="10;-22.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="589.5;622"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+            <!-- Right Vertical -->
+                    <line x1="362.5" y1="237" x2="362.5" y2="362">
+                        <animate 
+                            attributeName="x1" 
+                            values="362.5;395"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="237;204.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="362.5;395"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="362;394.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="395" y1="204.5" x2="395" y2="394.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="395;427.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="204.5;172"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="395;427.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="394.5;427"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="427.5" y1="172" x2="427.5" y2="427">
+                        <animate 
+                            attributeName="x1" 
+                            values="427.5;460"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="172;139.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="427.5;460"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="427;459.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="460" y1="139.5" x2="460" y2="459.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="460;492.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="139.5;107"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="460;492.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="459.5;492"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="492.5" y1="107" x2="492.5" y2="492">
+                        <animate 
+                            attributeName="x1" 
+                            values="492.5;525"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="107;74.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="492.5;525"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="492;524.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="525" y1="74.5" x2="525" y2="524.5">
+                        <animate 
+                            attributeName="x1" 
+                            values="525;557.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="74.5;42"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="525;557.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="524.5;557"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="557.5" y1="42" x2="557.5" y2="557">
+                        <animate 
+                            attributeName="x1" 
+                            values="557.5;590"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="42;9.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="557.5;590"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="557;589.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+                    <line x1="557.5" y1="42" x2="557.5" y2="557">
+                        <animate 
+                            attributeName="x1" 
+                            values="590;622.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y1" 
+                            values="9.5;-23"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="x2" 
+                            values="590;622.5"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                        <animate 
+                            attributeName="y2" 
+                            values="589.5;622"
+                            dur="1s"
+                            repeatCount="indefinite" />
+                    </line>
+</svg>
