@@ -1,5 +1,5 @@
 
-# *Insert Internet Space Name Here*
+# *You've been in suspension for 9999999-*
 
 This repository will be home to everything in my personal collection of everything I do online! 
 
