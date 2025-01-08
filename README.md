@@ -12,8 +12,7 @@ Everything to do with my Portal fanfic!
 * Video & Visual Content
 * Dev Documentation or WIPs?
 * ARG elements?
-* Sounds & Voices
-    * AI TTS?
+* Portal/Portal 2 SFX & VOs
 * Voice Acting/Editing?
 * Inspiration: [AlmaNet](https://almanet.cc/)
 
