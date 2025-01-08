@@ -27,5 +27,5 @@ Basically a personal blog!
 ## Other Projects I'll likely deploy with Neocities at some point...
 * ### Text Effects
    * Creating a terminal-like site you type in words and it changes the look of the site and or the font of the text you type.
-(totally not making a custom site for Imposter Syndrome videos specific text graphics)
+~~(totally not making a custom site for Imposter Syndrome videos specific text graphics)~~
    * Inspired by: [justtypestuff.com](https://justtypestuff.com) & [Terry Cavanagh](https://github.com/TerryCavanagh)
