@@ -1,7 +1,7 @@
 
 # *You've been in suspension for 9999999-*
 
-This repository will be home to everything in my personal collection of everything I do online! Keeping in the spirit of the indie web, I will only be using HTML, CSS, JS, and PHP for this project! >:D                 
+This repository will be home to everything in my personal collection of everything I do online! Keeping in the spirit of the indie web, I will only be using HTML, CSS, JS, and PHP (Hugo?) for this project! >:D                 
 
 Other than a home page, [essentially my carrd](https://wheatleyinabox.carrd.co/), the site includes the following:        
 
