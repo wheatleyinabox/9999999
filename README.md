@@ -3,7 +3,8 @@
 
 This repository will be home to everything in my personal collection of everything I do online! 
 
-Keeping in the spirit of the indie web, I'm only allowed to use HTML, CSS, JS, and PHP (and maybe some SMALL additions that aren't whole frameworks... [cebe/markdown](https://github.com/cebe/markdown)? CommonMark PHP? Markdown PHP? Parsedown?) for this project! >:D                 
+Keeping in the spirit of the classic era of the web, I'm only allowed to use HTML, CSS, JS, and PHP!            
+(and maybe some SMALL additions that aren't whole frameworks... [cebe/markdown](https://github.com/cebe/markdown)? CommonMark PHP? Markdown PHP? Parsedown?)         
 
 Other than a home page, [essentially my carrd](https://wheatleyinabox.carrd.co/), the site includes the following:        
 
