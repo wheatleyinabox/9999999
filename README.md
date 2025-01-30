@@ -1,7 +1,9 @@
 
 # *You've been in suspension for 9999999-*
 
-This repository will be home to everything in my personal collection of everything I do online! Keeping in the spirit of the indie web, I will only be using HTML, CSS, JS, and PHP ([cebe/markdown](https://github.com/cebe/markdown)? CommonMark PHP? Markdown PHP? Parsedown?) for this project! >:D                 
+This repository will be home to everything in my personal collection of everything I do online! 
+
+Keeping in the spirit of the indie web, I'm only allowed to use HTML, CSS, JS, and PHP (and maybe some SMALL additions that aren't whole frameworks... [cebe/markdown](https://github.com/cebe/markdown)? CommonMark PHP? Markdown PHP? Parsedown?) for this project! >:D                 
 
 Other than a home page, [essentially my carrd](https://wheatleyinabox.carrd.co/), the site includes the following:        
 
