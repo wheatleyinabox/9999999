@@ -1,0 +1,37 @@
+/* 
+
+
+
+*/
+.main-page
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-page-header
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.apsci-logo
+{
+    max-width: 10vh;
+}
+
+.geo-regular 
+{
+    font-family: "Geo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.geo-regular-italic 
+{
+    font-family: "Geo", serif;
+    font-weight: 400;
+    font-style: italic;
+}
