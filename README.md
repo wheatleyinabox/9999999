@@ -3,9 +3,10 @@
 
 This repository will be home to everything in my personal collection of everything I do online! 
 
-Keeping in the spirit of the classic era of the web, I'm only allowed to use HTML, CSS, and JS! (And maybe more down the line...)       
+Keeping in the spirit of the classic era of the web, I'm only allowed to use HTML, CSS, and JS! (And maybe more down the line depending on what I want to implement...)       
 
-[Inspired by my carrd](https://wheatleyinabox.carrd.co/), YouTube, and the IndieWeb!
+[Inspired by my carrd](https://wheatleyinabox.carrd.co/), YouTube, and the IndieWeb!             
+[General Pinterest Inspo](https://www.pinterest.com/wheatleyinabox/personal-site-inspo/)                 
 
 # The site includes the following:     
 ## Home      
