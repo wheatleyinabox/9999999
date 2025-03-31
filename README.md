@@ -3,14 +3,25 @@
 
 This repository will be home to everything in my personal collection of everything I do online! 
 
-Keeping in the spirit of the classic era of the web, I'm only allowed to use HTML, CSS, and JS! (And maybe more down the line depending on what I want to implement...)       
-
-[Inspired by my carrd](https://wheatleyinabox.carrd.co/), YouTube, and the IndieWeb!             
-[General Pinterest Inspo](https://www.pinterest.com/wheatleyinabox/personal-site-inspo/)                 
+Keeping in the spirit of the classic era of the web, I'm gonna try and make it with as little modern web tools as I can :D
+* [Inspired by my carrd](https://wheatleyinabox.carrd.co/), YouTube, and the [IndieWeb](https://indieweb.org/)!             
+* [General Pinterest Inspo](https://www.pinterest.com/wheatleyinabox/personal-site-inspo/)                 
 
 # The site includes the following:     
 ## Home      
-TBD
+### Content
+* About Me
+  * Name, Screen Name
+  * Blurb
+  * Likes & Dislikes
+* Socials
+* LGBTQIA+
+* Do Not Interact section
+* Current Works
+  * Imposter Syndrome site (ao3 for now)
+  * Link to The Box
+  * Link to Professional Portfolio
+
 
 ## Imposter Syndrome
 Everything to do with my Portal fanfic!
@@ -27,9 +38,9 @@ Everything to do with my Portal fanfic!
 Basically a personal blog!
 ### Categories
 * Writing (that isn't Imposter Syndrome)
-* Diary/Journal
+* Journal
 * Discussion Board
-    * Talking about anything
+    * Talking about anything I feel like lol
 
 # Other Projects
 ## Text Effects
