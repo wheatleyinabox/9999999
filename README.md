@@ -5,7 +5,8 @@ This repository will be home to everything in my personal collection of everythi
 
 Keeping in the spirit of the classic era of the web, I'm gonna try and make it with as little modern web tools as I can :D
 * Inspired by my [carrd](https://wheatleyinabox.carrd.co/), YouTube, and the [IndieWeb](https://indieweb.org/)!             
-* [Pinterest Inspo!](https://www.pinterest.com/wheatleyinabox/personal-site-inspo/)                 
+* [Pinterest Inspo!](https://www.pinterest.com/wheatleyinabox/personal-site-inspo/)   
+* Jamstack: Hugo? Astro? Jekyll?              
 
 # The site includes the following:     
 ## Home      
